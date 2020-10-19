@@ -32,3 +32,4 @@ localhost:8000/meeting/?start=<START_TIME>&end=<END_TIME>
 ```ruby
 localhost:8000/meeting/?Email=<EMAIL>
 ```
+To check the working of handler refer to main_test.go
